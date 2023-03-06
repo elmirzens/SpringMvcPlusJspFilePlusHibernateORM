@@ -9,14 +9,11 @@
 <html>
 <head>
     <title>INSERT PERSON</title>
-    <style>
-        .jv{
-            color: aqua;
-        }
-    </style>
+    <style><%@include file="/WEB-INF/views/css/form.css"%></style>
+
 </head>
 <body>
-<h1 class="jv">Save Student</h1>
+<h1 class="jv">Save Person</h1>
 <form action="/saveStudent" method="post">
     <label>Name:</label><input type="text" name="name">
     <label>age:</label><input type="text" name="age">

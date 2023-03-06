@@ -7,10 +7,26 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>PERSON PROFILE</title>
+</head>
+<body>
+<table border="1px">
+    <thead>
+    <tr>
+        <th>id</th>
+        <th>name</th>
+        <th>age</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>${person.id}</td>
+        <td>${person.name}</td>
+        <td>${person.age}</td>
+    </tr>
+    </tbody>
+</table>
+<a href="/">roll-back</a>
+</body>
 </html>
