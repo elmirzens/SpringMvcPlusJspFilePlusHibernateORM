@@ -9,24 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec442528-986f-4b78-9ac1-dd21bcac83db" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ec442528-986f-4b78-9ac1-dd21bcac83db" name="Changes" comment="g">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/config/DispatcherServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/config/DispatcherServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/contrller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/contrller/PersonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/dao/PersonDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/dao/PersonDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/dao/impl/PersonDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/dao/impl/PersonDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/css/form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/find-all.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/find-all.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/find.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/find.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/person-save.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/person-save.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update-person-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update-person-form.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,8 +197,17 @@
       <workItem from="1678094230316" duration="485000" />
       <workItem from="1678096990449" duration="271000" />
       <workItem from="1678109801574" duration="323000" />
-      <workItem from="1678113183016" duration="2287000" />
+      <workItem from="1678113183016" duration="2508000" />
+      <workItem from="1678120774713" duration="1150000" />
     </task>
+    <task id="LOCAL-00001" summary="g">
+      <created>1678116638457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678116638457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,5 +223,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g" />
   </component>
 </project>

@@ -29,6 +29,7 @@ public class PersonDaoImpl implements PersonDao {
         return session.get( Person.class, id );
     }
 
+
     @Override
     public void save(Person person) {
         Session session = sessionFactory.getCurrentSession();
