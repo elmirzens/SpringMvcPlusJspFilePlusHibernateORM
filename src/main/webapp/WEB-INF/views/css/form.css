@@ -36,3 +36,14 @@ input:focus {
     border-color: #4CAF50;
     box-shadow: 0 0 5px rgba(81, 203, 238, 1);
 }
+.add-student {
+    color:black;
+    background: white;
+    width: 150px;
+    height:25px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 1px 1px 10px black;
+    padding: 20px;
+    margin-bottom: 60px;
+}

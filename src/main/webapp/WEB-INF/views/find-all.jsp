@@ -6,12 +6,17 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <html>
 <head>
     <title>Title</title>
-    <style><%@include file="/WEB-INF/views/css/table.css"%></style>
+    <style>
+        <%@include file="/WEB-INF/views/css/table.css" %>
+    </style>
+    <style>
+        <%@include file="/WEB-INF/views/css/form.css" %>
+    </style>
 </head>
 <body>
 <h1 class="jv">My List</h1>
@@ -30,7 +35,7 @@
         <tr>
             <td>${person.id}</td>
             <td>
-                  <a href="/get/by/${person.id}">${person.name}</a>
+                <a href="/get/by/${person.id}">${person.name}</a>
             </td>
             <td>${person.age}</td>
             <td>

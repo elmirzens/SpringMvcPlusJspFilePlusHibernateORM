@@ -9,6 +9,12 @@
 <html>
 <head>
     <title>PERSON PROFILE</title>
+    <style>
+        <%@include file="/WEB-INF/views/css/table.css" %>
+    </style>
+    <style>
+        <%@include file="/WEB-INF/views/css/form.css" %>
+    </style>
 </head>
 <body>
 <table border="1px">
